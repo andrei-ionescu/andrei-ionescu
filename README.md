@@ -16,7 +16,6 @@ I love playing stringed instruments like bass guitar, electric guitar and mandol
 
 ### Social Media
 
-[LinkedIn](https://www.linkedin.com/in/andreiionescu/)
-
-[Twitter](https://twitter.com/webdever)
+- [LinkedIn](https://www.linkedin.com/in/andreiionescu/)
+- [Twitter](https://twitter.com/webdever)
 
