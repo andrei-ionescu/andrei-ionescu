@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**andrei-ionescu/andrei-ionescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrei Ionescu _\[ˈændreɪ joˈnesku\]_, a software engineer specializing in distributed systems and data lakes.
 
-Here are some ideas to get you started:
+### Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work for Adobe where I contribute to the [Adobe Experience Platform](https://business.adobe.com/products/experience-platform/adobe-experience-platform.html) and to be more precise I'm mainly contributing to the Ingestion and Data Lake projects.
+
+### Open Source
+
+I am contributing to [Apahce Iceberg](https://github.com/apache/iceberg) and [Hyperspace](https://github.com/microsoft/hyperspace).
+
+### Personal
+
+I love playing stringed instruments like bass guitar, electric guitar and mandolin. I'm regularly playing with my band named Glory Band.
+
+### Social Media
+
+[LinkedIn](https://www.linkedin.com/in/andreiionescu/)
+
+[Twitter](https://twitter.com/webdever)
+
