@@ -8,7 +8,7 @@ I work for Adobe where I contribute to the [Adobe Experience Platform](https://b
 
 ### Open Source
 
-I am contributing to [Hyperspace](https://github.com/microsoft/hyperspace) and [Apahce Iceberg](https://github.com/apache/iceberg).
+I am contributing to [Hyperspace](https://github.com/microsoft/hyperspace), [Apahce Iceberg](https://github.com/apache/iceberg) and [Delta-RS](https://github.com/delta-io/delta-rs).
 
 ### Personal
 
